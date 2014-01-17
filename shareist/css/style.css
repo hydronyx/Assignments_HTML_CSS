@@ -1,0 +1,207 @@
+h1,div,body,p,a,ul,li,ol{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	background-color: #EEEEEE;
+}
+
+
+#page {
+	background-color:  #EEEEEE;
+}
+
+
+.tos{
+	color: #000000;
+	text-decoration: none;
+}
+
+
+.headerWrapper{
+	background-image: url(../images/headerbg.png);
+	height: 50px;
+}
+
+.margin7{
+	margin-top:7px;
+}
+
+.marginTen{
+	margin-top:10px;
+}
+
+.textField{
+	height: 31px;
+	width: 240px;
+}
+
+.margin25{
+	margin-top:10px;
+}
+
+.margin72px{
+	margin-top: 72px;
+}
+
+.lineHeight{
+	line-height: 150%;
+}
+
+.logo{
+	float:left;
+}
+
+.padding5{
+	padding: 50px;
+}
+
+.buttonsRight {
+	float :right;
+	margin-right: 
+	
+}
+.buttonsRight > ul > li {	
+	float :left;
+	list-style: none;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+.roundButton{
+	border-radius: 100px;
+	font-weight: bold;		
+}
+
+.LargeButton{	
+	border-radius: 100px;
+	font-weight: bold;
+	box-shadow: 0px 0px 2px #0976B5;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #0976B5;
+	margin-bottom: 25px;
+	background-size: 300px;
+	max-width: 300px;
+	height:60px;
+	vertical-align:middle; 
+	padding-top: 18px;
+	font-size: 26px;
+	font-family: helvetica;
+}
+
+
+.bannerWrapper{
+	background-color: #33AAEE;
+	border-bottom: 1px;
+	box-shadow: 0px 1px 1px #3B3B3B;	
+}
+
+.fontHelvetica18{
+	font-family: Helvetica;
+	font-size: 18px;
+	vertical-align:middle;
+	color: #444444;
+}
+
+
+.fontHelvetica22B{
+	font-family: Helvetica;
+	font-size: 22px;
+	color: #444444;
+	font-weight: bold;
+	vertical-align: middle;
+	word-spacing: 7px;
+	padding-top: 5px;
+
+}
+
+.Helvetica24B{
+	font-family: Helvetica;
+	font-size: 24px;
+	color: #444444;
+	padding-top: 10px;
+}
+
+.HelveticaNeue{
+
+	font-family: HelveticaNeue;
+	font-size: 13px;
+	color: #444444;
+	font-weight: bold;
+}
+
+.helveticaBold{
+	font-family: Helvetica;
+	color: #A7A7A7;
+}
+
+
+.fontUbuntu{
+	font-family:Ubuntu;
+	color: #444444;	
+}
+
+
+
+
+.border{
+	border-bottom: solid;
+	border-color: #CFCFCF;
+	border-width: 1px;
+}
+
+.signUp{
+	margin-top: 30px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CFCFCF;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 10px;
+	background-color: #FFFFFF;
+}
+
+.textBoxResize{
+	width: 260px;
+}
+
+
+.getNotebook{
+	font-family: Ubuntu;
+	font-size: 22px;
+	padding-top: 25px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.facebookConnect{
+	padding-bottom: 5px;
+}
+
+.whatCanWeDo{
+	font-size: 36px;
+	text-align: center;
+	font-weight: 500;
+	margin-top: 50px;
+	font:400;
+}
+
+.rowTwo{
+	margin-top: 50px;
+}
+
+.rowMargin{
+	margin-top: 30px;
+}
+
+
+.footer
+{
+	margin-top: 45px;
+	margin-bottom: 155px;
+}
