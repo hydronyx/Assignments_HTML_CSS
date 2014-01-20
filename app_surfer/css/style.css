@@ -1,0 +1,262 @@
+/*All page global properties are set here*/
+h1,div,body,p,a,ul,li,ol{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	background-color: #FFFFFF;
+}
+
+
+#page {
+	background-color:  #FFFFFF;
+}
+
+
+a:link {
+	
+	text-decoration: none;
+}
+
+a:active {
+	color: #B73045;
+	text-decoration: none;
+}
+
+a:visited {
+	
+	text-decoration: none;
+}
+
+a:hover {
+	color: #068FF4;
+	text-decoration: none;
+}
+
+
+/*All alignment specific classes are written here*/
+
+
+.borderOrange{
+	padding-top: 10px;
+	border-bottom: solid;
+	border-color: #f1a62f;
+	border-width: 1px;
+	box-shadow: 0px 1px 0px #ffd279;
+	width: 300px;
+}
+
+
+
+.whiteFont{
+	color: #FFFFFF;
+}
+
+.greyFont{
+	color: #2C3033;
+}
+
+
+.margin20pxLeft{
+	margin-left: 20px;
+}
+
+.margin20pxtop{
+	margin-top: 20px;
+}
+
+.margin28pxLeft{
+	margin-left: 28px;
+}
+
+.margin38pxRight{
+	margin-right: 38px;
+}
+
+
+
+.shadow {
+   -moz-box-shadow:    inset 0 0 100px #000000;
+   -webkit-box-shadow: inset 0 0 1px #000000;
+   box-shadow:         inset 0 0 10px #E1A94A;
+}
+
+
+/*Header specific classes are written here*/
+
+.headerWrapper{
+	padding-top: 4px;
+	height: 55px;
+	background-color: #FFFFFF;
+}
+
+.navLinks{
+	padding-top: 14px;
+}
+
+
+.navLinks > ul >li {
+	font-family: Helvetica;
+	list-style: none;
+	display: inline;
+	color: #000000;
+	color: #444444;
+
+}
+
+.navFont{
+	color: #444444;
+	font-family: "Helvetica";
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+
+}
+
+.navLinksRight{
+	padding-top: 13px;	
+}
+
+
+.navLinksRight >ul >li{
+	font-family: Helvetica;
+	list-style: none;
+	display: inline;
+	color: #000000;
+	font-size: 14px;	
+}
+
+
+
+
+/*Banner specific classes are written here*/
+
+
+
+
+.contentWrapper
+{
+	background-color: #FFC258;
+	border-top: 1px solid #e2ac4e;
+	border-bottom: 1px solid #e2ac4e;
+
+}
+
+
+.banner{
+
+	background-image: url("../images/banner_bg.png");
+	background-position:27% 50%;
+	background-repeat:no-repeat;
+
+	
+}
+
+
+.bannerButtonsAlign{
+	margin-top:106px;
+	margin-left: 103px;
+}
+
+
+
+
+.bannerHeading{
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.bannerText{
+	font-size: 12px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+
+
+
+
+
+/*Signup specific classes are written here*/
+
+
+
+.signUp{
+
+	margin-top: 47px;
+	margin-left: 15px;
+}
+
+.signUpLabel{
+	font-family: "Helvetica Neue";
+	font-size: 30px;
+	vertical-align: middle;
+}
+
+.controls >input {
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #d89e2e;
+	box-shadow: 0px 0px 1px #d89e2e;
+
+}
+
+.textFieldResize{
+	width: 288px;
+	min-height: 30px;
+
+}
+
+.loginNote{
+	margin-top: 23px;
+	font-style: "Helvetica";
+	font-size: 14px;
+	color: #555555;
+
+}
+
+.alignSignup{
+	margin-left: -95px;
+	padding-top: -10px;
+	font-style: "Helvetica";
+	font-weight: bold;
+	font-size: 14pt;
+	vertical-align: text-top;
+}
+
+
+
+/*Footer specific classes are written here*/
+
+
+.footerWrapper{
+	background-color: #FFFFFF;
+	
+}
+
+.footer > ul >li{
+	list-style: none;
+	display: inline;
+	padding-right: 10px;
+	
+}
+
+.tos{
+	font-size: 12px;
+}	
+
+
+
+.copyright{
+	color: #888888;
+	font-family: "Helvetica";
+	font-size: 12px;
+	margin-top: 17px;
+}
