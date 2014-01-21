@@ -79,8 +79,8 @@ a:hover {
 
 
 .shadow {
-   -moz-box-shadow:    inset 0 0 100px #000000;
-   -webkit-box-shadow: inset 0 0 1px #000000;
+   -moz-box-shadow:    inset 0 0 10px #E1A94A;
+   -webkit-box-shadow: inset 0 0 10px #E1A94A;
    box-shadow:         inset 0 0 10px #E1A94A;
 }
 
