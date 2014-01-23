@@ -1,0 +1,107 @@
+.heading > h1 {
+	padding-top: 20px;
+	text-align: center;
+	color:#800000;
+	background-color#E2E2E2;
+	font-family: 
+}
+
+.contact > h3 {
+	text-align: center;
+}
+
+
+.header > ul {
+	background: #64C5FF;
+	height: 40px;
+	float: left;
+	margin: 0;
+	
+	width: 940px;
+	padding-top: 15px;
+	border-bottom: 1px solid black;	
+}
+
+.header > ul > li {
+	float: left;
+	padding-left: 210px;
+	text-align: center;
+	width: 30px;
+	list-style: none;
+}
+
+
+.header > ul > li > a {
+	width: 30px;
+	font-family: fantasy;
+	font-size: larger;
+}
+
+
+.heading
+{
+	border-bottom: 1px solid black;
+	height: 80px;	
+}
+
+
+
+
+.submenu {
+	background-color: #C0C0C0;
+	float: left;	
+	border-color: #000000;	
+	border-right: 1px solid black;	
+	width: 200px;
+	padding-left: 30px;
+	height: 570px;
+}
+
+
+
+.details
+{
+	float: right;
+	width:650px;
+	padding-right: 30px;
+	height: 570px;
+}
+
+
+
+.leftimage
+{
+	float: left;
+	padding: 10px;	
+	border: 2px;
+	border-style: solid;
+	
+	margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.contact
+{
+	float: right;
+	padding:30px;
+	position:relative;
+	margin-top: 100px;
+	margin-right: 200px;
+	border: 1px solid black;
+
+}
+
+
+textarea {
+	resize: none;
+}
