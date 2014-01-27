@@ -1,0 +1,417 @@
+temp.orangeButton{
+  width: 250px;
+  height: 50px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #444;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  border: solid 1px #921;
+  background-image: -webkit-linear-gradient(bottom, #a32, #d42);
+  background-image: -moz-linear-gradient(bottom, #a32, #d42);
+  background-image: -o-linear-gradient(bottom, #a32, #d42);
+  background-image: linear-gradient(to top, #a32, #d42);
+}
+
+.translationBuyer{
+  text-decoration: none;
+  font-family: "Roboto Bold";
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+}
+
+
+
+
+/*========================== FIRST FOLD =======================*/
+
+.firstFold{
+
+  background:#eeeeee;
+}
+
+.slider{
+  height: 278px;
+
+}
+
+.sliderDots{
+
+  padding: 258px 450px 0px 448px;
+}
+
+.yourGatewayText{
+  font-family: "Roboto Medium";
+  font-size: 24px;
+  line-height: 32px;
+  color: #666666;
+  text-shadow: 0 1px #FFFFFF;
+  text-align: center;
+
+}
+
+.peoplePoweredText{
+  font-size: 30px;
+  color: #444444;
+  line-height: 30px;
+  font-family: "Roboto Bold";
+  text-shadow: 0 1px #FFFFFF;
+  text-align: center;
+  margin-bottom: 25px;
+
+}
+
+
+
+.signUpAsText{
+  font-family: "Roboto Bold";
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3f3f3f;
+  text-decoration: none;
+  text-align: center;
+  line-height: 35px;
+
+}
+
+
+.signUpAsButton{
+  width: 120px;
+  height: 35px;
+  -webkit-border-radius: 17px 18px 18px 17px/17px 17px 18px 18px;
+  -moz-border-radius: 17px 18px 18px 17px/17px 17px 18px 18px;
+  border-radius: 17px 18px 18px 17px/17px 17px 18px 18px;
+  background-color: #f7f7f7;
+  margin-left:406px;
+
+
+}
+
+.signUpLine{
+  background: url("../images/signup_line.png") center no-repeat;
+  height: 40px;
+  margin-bottom: 25px;
+}
+
+
+.signUp{
+  padding: 0px 185px 35px 185px;
+
+  
+}
+
+
+a.signUpButtons {
+  float: left;
+  display: block;
+  width: 250px;
+  height: 50px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #444;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  box-shadow: 0 1px 3px rgba(0,0,0,.4), inset 0 2px rgba(255,255,255,.4);
+  border: solid 1px #921;
+  background-image: -webkit-linear-gradient(bottom, #a32, #d42);
+  background-image: -moz-linear-gradient(bottom, #a32, #d42);
+  background-image: -o-linear-gradient(bottom, #a32, #d42);
+  background-image: linear-gradient(to top, #a32, #d42);
+}
+
+
+a.translation{
+  text-align: center;
+  text-decoration: none;
+  font-family: "Roboto Bold";
+  font-size: 16px;
+  line-height: 50px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+
+}
+
+.or{
+
+  float: left;
+  line-height: 50px;
+  padding: 0px 15px 0px 15px;
+  font-size: 20px;
+  font-family: Roboto Bold;
+  color: #666666;
+
+}
+
+
+/*========================== SECOND FOLD =======================*/
+
+
+
+.secondFold{  
+  background-color: #444;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.4);
+  -moz-box-shadow: inset 0 0 6px rgba(0,0,0,.4);
+  box-shadow: inset 0 0 6px rgba(0,0,0,.4);
+
+}
+
+.margin64pxBottom{
+  padding-bottom: 64px;
+}
+
+
+.secondFold ul li{
+  width: 209px;
+  list-style: none;
+  float: left;
+  margin-right:20px;
+  padding-top: 35px;
+  padding-left: 10px;
+}
+
+.secondFold ul li:last-child{ 
+  margin-right:0px;
+}
+
+.secondFold ul li img{
+  padding-left: 23px;
+}
+.secondFoldTextHeading{
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 32px;
+  color: #FFFFFF;  
+}
+
+.secondFold ul li p{
+  text-align: left;
+  font-size: 12px;
+  line-height: 18px;
+  color: #bbbbbb;
+}
+
+.secondfoldLine{
+  border-bottom: 1px solid #393939;
+  -webkit-box-shadow: 0 1px #5e5e5e;
+  -moz-box-shadow: 0 1px #5e5e5e;
+  box-shadow: 0 1px #5e5e5e;
+  margin-bottom: 10px;
+}
+
+
+/*========================== THIRD FOLD =======================*/
+
+.thirdFold{
+  
+  background-color: #FFFFFF;
+  padding-top: 47px;
+}
+
+
+.thirdFoldLeft{
+  float: left;
+}
+
+.thirdFoldRight{
+  float: right;
+
+}
+
+.topProviders{
+  padding-bottom: 14px;
+  font-family: Roboto Bold;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #DD4422;
+  border-bottom: 1px solid #ebebeb;
+  margin:0px 0px 15px 0px;
+}
+
+
+.thirdFoldRight ul li{
+  list-style: none;
+  margin-bottom: 15px;
+
+}
+
+.thirdFoldRight ul li img{
+  float: left;
+}
+
+.thirdFoldRight ul li a{
+  float: left;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 18px;
+  color: #222222;
+  padding: 4px 0px 0px 15px;
+  text-align: left;
+}
+
+.thirdFoldRight ul li h6{
+
+  color: #888888;
+  line-height:18px;
+  padding: 0px 0px 0px 60px;
+}
+
+.ourProviders{
+  font-family: Roboto;
+  font-size: 21px;
+  line-height: 37.83px;
+  color: #444444;
+  margin-bottom: 20px;
+  padding-left: 7px;
+}
+
+.margin38pxTop{
+  margin-top:38px;
+}
+
+
+
+
+/*========================== FOURTH FOLD =======================*/
+
+.fourthFold{
+  background: #dddddd;
+  
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,.2);
+  -moz-box-shadow: inset 0 0 5px rgba(0,0,0,.2);
+  box-shadow: inset 0 0 5px rgba(0,0,0,.2);
+  padding-top: 40px;
+}
+
+.immenselyBenefit{
+  font-family: Roboto;
+  font-size: 24px;
+  line-height: 40px;
+  color: #444444;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.jennyScofiels{
+  float: left;
+  font-family: Roboto Bold;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #222;
+  text-decoration: none;
+  margin-right: 6px;
+}
+
+
+.projectManager{
+  float: left;
+  font-size: 14px;
+  line-height: 18px;
+  color: #d54102;
+  text-decoration: none;
+  padding-right: 50px;
+  margin-bottom: 13px;
+}
+
+
+.whiteRectangle p {
+  font-size: 12px;
+  line-height: 18px;
+  color: #888;
+
+}
+
+.fourthFoldImage{
+  float: left;
+  width: 70px;
+  height: 70px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  background:url(../images/jenny_scofiels.png);
+  -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
+  -moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
+  box-shadow: 0 0 3px rgba(0,0,0,.2);
+  border: solid 2px #fff;
+  margin-right: 18px;
+}
+
+.whiteRectangle{
+  float: left;
+  width: 400px;
+  height: 70px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #fff;
+  -webkit-box-shadow: 0 0 5px rgba(0,0,0,.1);
+  -moz-box-shadow: 0 0 5px rgba(0,0,0,.1);
+  box-shadow: 0 0 5px rgba(0,0,0,.1);
+  border: solid 1px #d6d6d6;
+  margin: 0px 8px 32px 20px;
+  padding: 20px ;
+  
+}
+
+/*========================== FOOTER WRAPPER =======================*/
+.footerWrapper{
+  
+  background-color: #353535;
+  -webkit-box-shadow: 0 1px 6px rgba(0,0,0,.4), inset 0 -1px #8b8b8b;
+  -moz-box-shadow: 0 1px 6px rgba(0,0,0,.4), inset 0 -1px #8b8b8b;
+  box-shadow: 0 1px 6px rgba(0,0,0,.4), inset 0 -1px #8b8b8b;
+}
+
+.footerWrapper ul{
+  padding-left: 277px;
+  padding-top: 19px;
+}
+
+.footerWrapper ul li{
+  float: left;
+  list-style: none;
+  margin-bottom: 7px;
+}
+
+.footerWrapper ul li a{
+  text-decoration: none;
+  color: #d9d9d9;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  padding-right: 8px ;
+  padding-left: 8px;
+  background:url("../images/footer_seperator.png") no-repeat right ;
+
+}
+
+.footerWrapper ul li:last-child a{
+  background: none;
+}
+
+.copyright{
+  color:#888888;
+  font-size:12px;
+  line-height: 16px;
+  text-align: center;
+  padding-bottom: 21px;
+}
+
+/*========================== COMMON OVERRIDES=======================*/
+.marginBottom69px{
+  margin-bottom: 69px;
+}
+
+.marginZeroRight{
+  margin-right: 0px;
+}
+
