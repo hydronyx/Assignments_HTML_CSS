@@ -289,8 +289,8 @@ a.translation{
 
 }
 
-.margin64pxBottom{
-  padding-bottom: 64px;
+.margin26pxBottom{
+  padding-bottom: 26px;
 }
 
 
@@ -357,7 +357,7 @@ a.translation{
 }
 
 .thirdFoldRight{
-  float: right;
+  float: left;
 
 }
 
